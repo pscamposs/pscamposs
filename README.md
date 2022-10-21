@@ -1,6 +1,5 @@
 <h3 align="center">Um desenvolvedor backend procurando oportunidades..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pscamposs&label=Profile%20views&color=0e75b6&style=flat" alt="pscamposs" /> </p>
 
 - 📫 Ente em contato pelo email **pscampos221@gmail.com**
 

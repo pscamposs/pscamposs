@@ -1,10 +1,7 @@
-<h3 align="center">Desenvolvedor Júnior Backend</h3>
-
-
-- 📫 Ente em contato pelo email **pscampos221@gmail.com**
+<h3 align="center">Junior Full-Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-Email | pscampos221@gmail.com
+📫 Email | pscampos221@gmail.com
 <p align="left">
 </p>
 

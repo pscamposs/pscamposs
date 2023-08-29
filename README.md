@@ -22,10 +22,7 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pscamposs&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+ 
 
 
 <h3 align="center">Connect with me:</h3>

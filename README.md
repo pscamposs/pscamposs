@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Patrick 👋</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
+<h3 align="center">Junior Developer</h3>
 
 <p align="center">
   <a href="mailto:pscampos221@gmail.com" target="_blank">
@@ -28,7 +28,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:pscampos221@gmail.com" target="_blank">📫 Email</a> •
-  <a href="https://github.com/pscamposs" target="_blank">GitHub</a> •
   <a href="https://linkedin.com/in/patrick-soares-492948243" target="_blank">LinkedIn</a> •
 </p>
 

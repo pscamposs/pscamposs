@@ -42,9 +42,9 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pscampos221&show_icons=true&theme=radical" alt="Patrick's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pscamposs&show_icons=true&theme=radical" alt="Patrick's GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pscampos221&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pscamposs&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
